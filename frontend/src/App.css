@@ -1,0 +1,15 @@
+/* Add these styles to your CSS file or inline styles */
+.react-youtube-container {
+    pointer-events: none; /* Disable click on YouTube logo */
+  }
+  
+  /* Hide video title */
+  .p-4 p {
+    display: none;
+  }
+  
+  /* Disable click on "more" */
+  .react-youtube-extra {
+    display: none;
+  }
+  

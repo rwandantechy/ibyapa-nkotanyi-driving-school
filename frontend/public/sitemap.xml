@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://www.ibyapa.com/</loc>
+    <xhtml:link rel="alternate" hreflang="rw-RW" href="https://www.ibyapa.com/" />
+    <xhtml:link rel="alternate" hreflang="rw" href="https://www.ibyapa.com/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.ibyapa.com/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.ibyapa.com/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.ibyapa.com/" />
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.ibyapa.com/pricing</loc>
+    <xhtml:link rel="alternate" hreflang="rw-RW" href="https://www.ibyapa.com/pricing" />
+    <xhtml:link rel="alternate" hreflang="rw" href="https://www.ibyapa.com/pricing" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.ibyapa.com/pricing" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.ibyapa.com/pricing" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.ibyapa.com/pricing" />
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.ibyapa.com/contact</loc>
+    <xhtml:link rel="alternate" hreflang="rw-RW" href="https://www.ibyapa.com/contact" />
+    <xhtml:link rel="alternate" hreflang="rw" href="https://www.ibyapa.com/contact" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.ibyapa.com/contact" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.ibyapa.com/contact" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.ibyapa.com/contact" />
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.ibyapa.com/signin</loc>
+    <xhtml:link rel="alternate" hreflang="rw-RW" href="https://www.ibyapa.com/signin" />
+    <xhtml:link rel="alternate" hreflang="rw" href="https://www.ibyapa.com/signin" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.ibyapa.com/signin" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.ibyapa.com/signin" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.ibyapa.com/signin" />
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.ibyapa.com/signup</loc>
+    <xhtml:link rel="alternate" hreflang="rw-RW" href="https://www.ibyapa.com/signup" />
+    <xhtml:link rel="alternate" hreflang="rw" href="https://www.ibyapa.com/signup" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.ibyapa.com/signup" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.ibyapa.com/signup" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.ibyapa.com/signup" />
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>

@@ -1,0 +1,290 @@
+{
+  "welcome": "Murakaza Neza",
+  "signIn": "Injira",
+  "logout": "Sohoka",
+  "takeExam": "Kora Ikizamini",
+  "home": "Ahabanza",
+  "aboutUs": "Abo Turibo",
+  "pricing": "Ibiciro",
+  "contact": "Twandikire",
+  "profile": "Konti yanjye",
+  "exam": "Kora Ikizamini",
+   "cta":"Tangira",
+  "contactUs": "Twandikire",
+  "students": "Abanyeshuri",
+  "hours": "Amasaha",
+  "exams": "Ibizamini",
+  "Intro": {
+    "FirstBlockTitle": "Kwisonga mugutanga ubumenyi mumategeko y’umuhanda no kugutegura gukora ikizamini",
+    "FirstBlockDescription": "Nkotanyi Driving School ni urubuga (ishuri) rwashyiriweho gufasha abanyarwanda bose kumenya no gusobanukirwa amategeko y’umuhanda mu rwego rwo guteza imbere umutekano wo mu muhanda.",
+    "LearnMore": "Menya Byinshi",
+    "StartNow": "Tangira Nonaha"
+  },
+  "aboutSection": {
+    "title": "Abo turibo",
+    "description": "NKOTANYI DRIVING SCHOOL dushyigikira abantu bafite ubumenyi, ubuhanga, n'icyizere cyo kuba abashoferi bafite umutekano. Twiyemeje gutanga inyigisho zuzuye kandi zihariye.",
+    "feature1": "Duteza imbere ubushobozi bwa tekinike bwo gukoresha imodoka",
+    "feature2": "Twibanze ku mwuga, ubunyangamugayo, no guhanga udushya",
+    "feature3": "Uburyo bwiza bwo kwiga amategeko y'umuhanda",
+    "additionalInfo": "Buri munyeshuri afite agaciro kandi agashyigikirwa mu rugendo rwo kumenya amategeko y'umuhanda.",
+    "teacher": "Teacher NKOTANYI",
+    "location": "Gisozi, Kigali Rwanda",
+    "teaching": "Kwigisha amategeko y'umuhanda no kwigisha ibinyabiziga",
+    "vision": "Icyerekezo cyacu kuri NKOTANYI DRIVING SCHOOL ni ukuba umuyobozi wa mbere mu gutanga uburezi bwo gutwara ibinyabiziga, gushyiraho urwego rwo kuba indashyikirwa no guhanga udushya.",
+    "futureVisionTitle": "Turateganya ejo hazaza aho buri mushoferi mumuhanda afite:",
+    "futureGoal1": "Ubumenyi, ubuhanga, n'ibyiyumviro byo kubahiriza amahame yo hejuru y'umutekano n'inshingano.",
+    "futureGoal2": "Gukomeza guteza imbere integanyanyigisho zacu, gukoresha ikoranabuhanga rigezweho",
+    "futureGoal3": "Guteza imbere umuco wo gukomeza gutera imbere",
+    "finalGoal": "Dufite intego yo guha imbaraga ibisekuruza by'abashoferi dushyira imbere umutekano, kuramba, no kubaha abandi."
+  },
+  "pricingSection": {
+    "kinyarwandaSpecial": {
+      "title": "Ibizamini bibiri gusa",
+      "description": "Uburyo bwiza bwo gukora ikizamini no kubona ibisubizo",
+      "feature1": "Gukora ibizamini bibiri",
+      "feature2": "Ntiwemerewe kureba Video",
+      "feature3": "Ntiwemerewe gusoma",
+     
+      "feature4": "Inshuro wakora Ibizamini:<strong> inshuro 2</strong>"
+    },
+    "oneTime": {
+      "title": "Ibizamini Bitanu gusa",
+      "description": "Uburyo bwiza bwo gukora ikizamini no kubona ibisubizo",
+      "feature1": "Gukora ibizamini bitanu",
+      "feature2": "Ntiwemerewe kureba Video",
+      "feature3": "Ntiwemerewe gusoma",
+      "feature4": "Inshuro wakora Ibizamini:<strong> inshuro 5</strong>"
+    },
+    "weekly": {
+      "title": "Icyumweru",
+      "description": "Gukora ibizamini wifuza byose, Gusoma ndetse no kureba Video mu gihe k'iminsi 7",
+      "feature1": "Gukora umubare w'ibizamini byose wifuza",
+      "feature2": "Kureba video",
+      "feature3": "Gusoma Igazeti , Ibyapa n'ibindi byinshi",
+      "feature4": "Igihe wemewe: <strong> Iminsi 7</strong>"
+    },
+    "twoWeekly": {
+      "title": "Ibyumweru 2",
+      "description": "Gukora ibizamini wifuza byose, Gusoma ndetse no kureba Video mu gihe k'iminsi 14",
+      "feature1": "Gukora umubare w'ibizamini byose wifuza",
+      "feature2": "Kureba video",
+      "feature3": "Ushobora gusoma Igazeti, Ibyapa, Ibitabo byose wifuza",
+      "feature4": "Igihe wemewe: <strong> Iminsi 14</strong>"
+    },
+    "monthly": {
+      "title": "Ukwezi",
+      "description": "Gukora ibizamini wifuza byose, Gusoma ndetse no kureba Video mu gihe k'iminsi 30",
+      "feature1": "Gukora umubare w'ibizamini byose wifuza",
+      "feature2": "Kureba video",
+      "feature3": "Ushobora gusoma Igazeti, Ibyapa, Ibitabo byose wifuza",
+      "feature4": "Igihe wemewe:<strong> Iminsi 30</strong>"
+    }
+  },
+  "FreeTrial": {
+    "Title": "Gerageza Ntakiguzi",
+    "Description": "Ushobora gukora ikizamini ntakiguzi.",
+    "StartNow": "Tangira Nonaha"
+  },
+  "ContactSection": {
+    "Title": "Twandikire",
+    "Description": "Waba wagize ikibazo? Tuvugishe cyangwa utwandikire kuri email cyangwa WhatsApp.",
+    "EmailLabel": "Email:",
+    "Email": "nkotanyidrivings@gmail.com",
+    "WhatsAppButton": "WhatsApp",
+    "PhoneLabel": "Telefone:",
+    "Phone": "0780211466"
+  },
+  "SignUpPage": {
+    "NameLabel": "Amazina",
+    "NamePlaceholder": "Shyiramo amazina yawe",
+    "PhoneLabel": "Telefone",
+    "PhonePlaceholder": "Shyiramo telefone yawe",
+    "PasswordLabel": "Ijambo ry'ibanga",
+    "PasswordPlaceholder": "Shyiramo ijambo ry'ibanga",
+    "SubmitButton": "Fungura konti",
+    "HasAccount": "Ufite konti?",
+    "SignInLink": "Injira",
+    "PhoneError": "Shyiramo nimero ya telefone Ikora",
+    "NameError": "Shyiramo amazina yawe neza",
+    "PasswordError": "Ijambo ry'ibanga rigomba ni rigufi",
+    "GenericError": "Habayeho ikibazo gikomeye. Ongera ugerageze."
+  },
+  "SignIn": {
+    "PhoneLabel": "Telefone",
+    "PhonePlaceholder": "Andika aha nimero ya telefoni",
+    "PasswordLabel": "Ijambo ry'ibanga",
+    "PasswordPlaceholder": "Shyiramo ijambo ry'ibanga",
+    "SubmitButton": "Injira",
+    "SigninError": "Numero ya Telefone yawe cg ijambo banga siryo!",
+    "VerificationSuccess": "Amahoro! ubu wabonye konti neza! Ushobora kwinjira ubu.",
+    "RememberMe": "Munyibuke",
+    "NewUser": "Uri mushya ?",
+    "SignUpLink": "Fungura konti",
+    "ForgotPassword": "Wibagiwe ijambo ry'ibanga?",
+    "ResetLink": "Hindura",
+    "PhoneError": "Shyiramo nimero ya telefoni Ikora",
+    "PasswordError": "Ijambo ry'ibanga ni ntiryemewe."
+  },
+  "Reset": {
+    "ContactAdminTitle": "Vugana n'umuyobozi w'ururubuga",
+    "ContactAdminMessage": "Nyamuneka hamagara umuyobozi kugira ngo agufashe guhindura ijambo ry'ibanga ryawe.",
+    "HomeButton": "Subira Ahabanza"
+  
+  },
+  "Dashboard": {
+    "Exams": "Ibizamini",
+    "Reading": "Gusoma",
+    "Watching": "Kureba",
+    "Performance": "Ibyo wakoze"
+  },
+  "ProfilePage": {
+    "MyAccount": "Imyirondoro/ Konti yawe",
+    "Name": "Amazina:",
+    "Language": "Ururimi rwa Konti:",
+    "Phone": "Numero Ya Telefoni :",
+    "Edit": "Hindura Umwirondoro",
+    "AccountInformation": "Amakuru Ajyanye n'ubwishyu",
+    "PaymentPeriod": "Igihe wishyuye/Ifatabuguzi",
+    "PaymentPeriodEnd": "Igihe Ifatabuguzi rizarangirira",
+    "ExamNumberBased": "N/A",
+    "PaymentConfirmed": "Yego",
+    "PaymentStatus": "Warishyuye?",
+     "PaymentNotConfirmed": "Hoya",
+    "OneTime": "Ikizamini Kimwe",
+    "TwoExams": "Ibizamini Bibiri",
+    "FiveExams": "Ibizamini Bitanu",
+    "Weekly": "Icyumweru Kimwe",
+    "TwoWeekly": "Ibyumweru Bibiri",
+    "Monthly": "Ukwezi Kumwe",
+    "Free": "Ubuntu",
+    "emailNotProvided": "Nta email ufite ubu",
+    "Update": "Kuvugurura",
+    "UnknownSubscription": "Ntayo"
+  },
+  "EditProfile": {
+    "AccountInformation": "Amakuru ya Konti",
+    "EditAccountInfo": "Hindura amakuru ya konti",
+    "Close": "Funga",
+    "Save": "Emeza ",
+    "Name": "Izina",
+    "Phone": "Telefone",
+    "NamePlaceholder": "Amazina yose",
+    "PhonePlaceholder": "Numero ya telefone",
+    "Cancel": "Kanda",
+    "AccountUpdated": "Konti Yashizweho neza",
+    "ErrorUpdating": "Ikosa ryabaye mu guhindura konti"
+  },
+  "SubscriptionComponent": {
+    "Pay": "Ishyura"
+  },
+  "WatchingContent": {
+    "GettingVideos": "Mutegereze Mwihanganye akanya gato...",
+    "NoPaymentError": "Nta mafaranga wishyuye kugira ngo urebe Amavidewo",
+    "PayNow": "Ishyura Nonaha",
+    "Loading": "Mutegereze Mwihanganye akanya gato...",
+    "YourVideos": "Amavidewo yawe",
+    "SearchVideoPlaceholder": "Shakisha Videwo"
+  },
+  "PerformanceContent": {
+    "Loading": "Mutegereze Mwihanganye akanya gato...",
+    "LoadError": "Habayeho ikibazo ntabwo amakuru y'ibizamini mwakoze arimo kuboneka. Ongera ugerageze.",
+    "ExamHistory": "Incamake y'ibizamini byose mwakoze ",
+    "DateTaken": "Italiki wakozeho ikizamini",
+    "ExamName": "Numero y'ikizamini",
+    "Marks": "Amanota",
+    "NoRecords": "Nta makuru y'ibizamini mwakoze arimo kuboneka. Nturakora Ikizamini",
+    "Page": "Urupapuro",
+    "Of": "kuri",
+    "#": "#",
+    "Previous": "Ibyabanje",
+    "Next": "Ibikurikira",
+    "First": "Iya Mbere",
+    "Last": "Iya Nyuma",
+    "Showing": "Kwerekana",
+    "Pages": "impapuro"
+  },
+  "ReadingContent": {
+    "Document": "Igitabo",
+    "See": "Reba",
+    "NoPayment": "Nta mafaranga wishyuye kugira ngo usome.",
+    "PayNow": "Ishyura Nonaha",
+    "Loading": "Mutegereze Mwihanganye akanya gato...",
+    "YourDocuments": "Ibitabo Byawe byose",
+    "SearchDocumentPlaceholder": "Shakisha Igitabo",
+    "NoDocumentsFound": "Igitabo Ushaka ntigishobora kuboneka"
+
+  },
+  "ExamsContent": {
+    "RequirementsHeading": "Ibyo ugomba kuba wujuje kugira ngo utangire.",
+    "RequirementsText": "Kugira ngo ukore ibizamini, ugomba kuba wujuje ibi bikurikira:",
+    "Start": "Tangira"
+  },
+  "ExamsPage": {
+    "Loading": "Mutegereze Mwihanganye akanya gato...",
+    "PaymentError": "Kugira ngo mubashe Gukora Ibizamini , murebe ama Videwo, ndetse no gusoma amagazeti, ibyapa, ibitabo byose murasabwa kwishyura. Murakoze cyane!",
+    "PaymentErrorMessage": "Kanda Hano wishyure.",
+    "NoSubscription": "Nta fatabuguzi mufite",
+    "RemainingTime": "Igihe gisigaye:",
+    "StartExam": "Ugiye gukora ikizamini kimara iminota makumyabiri.Amahirwe masa!",
+    "Submit": "Soza Ikizamini",
+    "StartExamButton": "Tangira",
+    "Question": "Ibibazo",
+    "Next": "Igikurikira",
+    "Previous": "Icyabanje"
+  },
+  "ExamResult": {
+    "Pass": "Watsinze",
+    "Fail": "Watsinzwe",
+    "YourScore": "Amanota yawe",
+    "GoBack": "Subira inyuma",
+    "CorrectQuestions": "Ibibazo watsinze",
+    "IncorrectQuestions": "Ibibazo watsinzwe",
+    "Conclusion": "Umwanzuro",
+    "YourAnswers": "Ibisubizo byawe",
+    "Question": "Ikibazo",
+    "RetakeTest": "Kora ikindi kizamini",
+    "RepeatQuestions": "Subiramo Ikizamini"
+  },
+
+  "PaymentPage": {
+    "Mobile Money": "Mobile Money",
+    "Airtel Money": "Airtel Money",
+    "Card": "Credit/Debit Card",
+    "SelectPlan": "Hitamo Uburyo w'ishyura",
+    "Twoexams": "Ibizamini Bibiri gusa -<strong> 300 RWF</strong>",
+    "Fiveexams": "Ibizamini Bitanu gusa - <strong>500 RWF</strong>",
+    "Weekly": "Icyumweru -<strong>  5000 RWF</strong> ",
+    "Twoweekly": "Ibyumweru Bibiri - <strong>8000 RWF</strong>",
+    "Monthly": "Ukwezi - <strong>10000 RWF</strong>",
+    "PhoneNumber": "Shyiramo Numero Yawe Ya Telefone:",
+    "PhonePlaceholder": "07xxxxxxxx",
+    "CardNumber": "Nimero y'ikarita:",
+    "CardPlaceholder": "Shyiramo Nimero y'ikarita",
+    "CardName": "Amazina ari kw'ikarita:",
+    "CardNamePlaceholder": "Shyiramo  amazina ari kw'ikarita",
+    "ExpDate": "Igihe izarangirira:",
+    "ExpDatePlaceholder": "MM/YYYY",
+    "CCV": "CCV",
+    "CCVPlaceholder": "Shyiramo CCV",
+    "Loading": "Mutegereze Mwihanganye akanya gato...",
+    "PayNow": "Komeza kwishyura",
+    "ProcessingPayment": "Ubwishyu burigutunganwa...",
+    "PaymentPending": "Turacyategereje ko wishyura",
+    "PaymentLinkOpened": "Umurongo wo kwishyura wafunguye mu tabu mushya. Muzabe kwishyura aho.",
+    "CheckingStatus": "Reka turebe ko wishyuye",
+    "PaymentSuccessful": "Twohereje Messege kuri Telefone yanyu , mwemeze amafaranga mwishyura. Murakoze!",
+    "Redirecting": "Kujya mu Dashboard",
+    "PaymentFailed": "kwishyura ntibyagenze neza. Mugerageze.",
+    "TryAgain": "Gerageza Nanone",
+    "TotalAmount": "Amafaranga Yose hamwe",
+    "InvalidPhoneNumber": "Numero ya telefone ntabwo yemewe",
+    "InvalidCardNumber": "Shyiramo nimero y'ikarita ikwiye.",
+    "InvalidExpDate": "Shyiramo igihe nyacyo cy'impera.",
+    "InvalidCCV": "Shyiramo CCV nkuko iri.",
+    "PaymentServiceUnavailable": "Serivisi zo kwishyura ntizirimo gukunda aka kanya. ",
+"PaymentServiceMessage": "mutwihanganire turaza kubamenyesha mu gihe ibibazo birimo biraba byakemutse. Murakoze"
+  },
+  "Announcement": {
+    "message": "Mukiriya Mwiza, turimo kuvugurura urubuga kugirango tubashe kubaha serivisi nziza.Murakoze!" 
+  }
+}

@@ -1,0 +1,167 @@
+<!doctype html>
+<html lang="rw">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/jpeg" href="/images/logo.jpg" />
+    <link rel="apple-touch-icon" href="/images/logo.jpg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#1947ee" />
+    <meta
+      name="impact-site-verification"
+      value="bc3f796a-882b-43ff-a63a-f5574701fbf4"
+    />
+    <!-- PWA Manifest -->
+    <link rel="manifest" href="/manifest.json" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta
+      name="apple-mobile-web-app-status-bar-style"
+      content="black-translucent"
+    />
+    <meta name="apple-mobile-web-app-title" content="IBYAPA" />
+    <!-- Performance: Preconnect to external origins -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="dns-prefetch" href="https://fonts.googleapis.com" />
+    <!-- Performance: Font with display=swap to prevent FOIT (Flash of Invisible Text) -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="preload"
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap"
+      as="style"
+    />
+    <!-- Critical CSS for initial render -->
+    <style>
+      /* Prevent flash of unstyled content */
+      body {
+        margin: 0;
+        font-family:
+          "Poppins",
+          -apple-system,
+          BlinkMacSystemFont,
+          "Segoe UI",
+          "Roboto",
+          "Oxygen",
+          sans-serif;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+      }
+      #root {
+        min-height: 100vh;
+      }
+      /* Loading spinner styles */
+      .loading-spinner {
+        display: inline-block;
+        width: 48px;
+        height: 48px;
+        border: 3px solid rgba(25, 71, 238, 0.1);
+        border-radius: 50%;
+        border-top-color: #1947ee;
+        animation: spinner 1s ease-in-out infinite;
+      }
+      @keyframes spinner {
+        to {
+          transform: rotate(360deg);
+        }
+      }
+    </style>
+    <meta name="application-name" content="NKOTANYI DRIVING SCHOOL" />
+    <meta name="robots" content="index,follow" />
+    <meta http-equiv="Content-Language" content="rw" />
+    <meta name="language" content="rw-RW" />
+    <link rel="canonical" href="https://www.ibyapa.com/" />
+    <link rel="alternate" href="https://www.ibyapa.com/" hreflang="rw-RW" />
+    <link rel="alternate" href="https://www.ibyapa.com/" hreflang="rw" />
+    <link rel="alternate" href="https://www.ibyapa.com/" hreflang="en" />
+    <link rel="alternate" href="https://www.ibyapa.com/" hreflang="fr" />
+    <link rel="alternate" href="https://www.ibyapa.com/" hreflang="x-default" />
+    <meta
+      name="description"
+      content="Wikwitegura ikizamini cy'urushushya rwo gutwara mu Rwanda hamwe na NKOTANYI DRIVING SCHOOL. Kora imyitozo y'ibibazo bisa n'ibyo ku kizamini cya Polisi, wige amategeko y'umuhanda yose n'ibyapa by'umuhanda mu Kinyarwanda , mu  Cyongereza ndetse  no mu Gifaransa."
+    />
+    <meta
+      property="og:title"
+      content="IBYAPA:Imyitozo y'Ikizamini cya Permi mu Rwanda (Ikinyarwanda/Igifaransa/Icyongereza)"
+    />
+    <meta name="author" content="Innocent Niyonzima, Rwandantechy" />
+    <meta
+      property="og:description"
+      content="Witoze ibibazo bisa n'ibyo ku kizamini cy'urushushya rwo gutwara mu Rwanda. Wige amategeko y'umuhanda, ibyapa n'ibindi byo kumenya mu Kinyarwanda (hanaboneka EN/FR)."
+    />
+    <meta
+      name="keywords"
+      content="urushushya rwo gutwara ibinyabiziga, ikizamini cy'uruhushya rw'imodoka, ibyapa byo mu muhanda, Rwanda driving license, permis yo gutwara, imyitozo y'ibibazo byo gutwara ibinyabiziga, ikizamini cya permis, online driving test Rwanda, kwiga gutwara ibinyabiziga mu Rwanda, driving school Rwanda, driving practice Rwanda, Kigali driving license exam, imyitozo y'ikizamini, driving rules Rwanda, gutwara ibinyabiziga ibibazo, traffic rules Rwanda, kwiga gutwara ibinyabiziga Kigali, Rwanda driving lessons, driving exam practice Kinyarwanda, English driving test Rwanda, driving theory test Rwanda, French driving exam Rwanda, permis de conduire Rwanda, kwipimisha icyongereza, gukora ikizamini cya permis, kwiga ibyapa, gukora imyitozo ya permis"
+    />
+
+    <meta
+      property="og:image"
+      content="https://www.ibyapa.com/images/logo.jpg"
+    />
+    <meta property="og:url" content="https://www.ibyapa.com" />
+    <meta property="og:site_name" content="NKOTANYI DRIVING SCHOOL" />
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="rw_RW" />
+    <meta property="og:locale:alternate" content="en_US" />
+    <meta property="og:locale:alternate" content="fr_FR" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta
+      name="twitter:title"
+      content="NKOTANYI DRIVING SCHOOL — Imyitozo y'Ikizamini cya Permi (RW/EN/FR)"
+    />
+    <meta
+      name="twitter:description"
+      content="Witegure ikizamini cya permi mu Rwanda: imyitozo isa n'ikizamini cya polisi, kwiga amategeko n'ibyapa by'umuhanda mu Kinyarwanda , mu Cyongereza ndetse no mu Gifaransa."
+    />
+    <meta
+      name="twitter:image"
+      content="https://www.ibyapa.com/images/logo.jpg"
+    />
+    <title>NKOTANYI DRIVING SCHOOL</title>
+    <!-- Structured Data: Local SEO for Driving School in Rwanda -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "DrivingSchool",
+        "name": "NKOTANYI DRIVING SCHOOL",
+        "url": "https://www.ibyapa.com",
+        "logo": "https://www.ibyapa.com/images/logo.jpg",
+        "image": "https://www.ibyapa.com/images/logo.jpg",
+        "description": "Witoze ibibazo by'ikizamini cya permi mu Rwanda kandi wige amategeko y'umuhanda hamwe na NKOTANYI DRIVING SCHOOL. Biboneka mu Kinyarwanda, Igifaransa n'Icyongereza.",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Kigali",
+          "addressRegion": "Kigali",
+          "addressCountry": "RW"
+        },
+        "telephone": "+250780211466",
+        "email": "nkotanyidrivings@gmail.com",
+        "areaServed": "RW",
+        "priceRange": "RWF 300 - 15000",
+        "sameAs": [
+          "https://www.tiktok.com/@teacher.nkotanyi",
+          "https://www.facebook.com/profile.php?id=100094279728817&mibextid=LQQJ4d",
+          "https://www.instagram.com/teacher_nkotanyi/",
+          "https://twitter.com/inkotanyi_y",
+          "https://www.youtube.com/@nkotanyiplacide7440"
+        ]
+      }
+    </script>
+  </head>
+  <body>
+    <noscript>
+      <div style="text-align: center; padding: 50px; font-family: sans-serif">
+        <h1>JavaScript Required</h1>
+        <p>Please enable JavaScript to use NKOTANYI DRIVING SCHOOL.</p>
+        <p style="color: #666">
+          Mwemere JavaScript kugira ngo mukoreshe ubu buryo.
+        </p>
+      </div>
+    </noscript>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+    <link rel="modulepreload" href="/src/main.jsx" />
+  </body>
+</html>

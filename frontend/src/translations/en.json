@@ -1,0 +1,286 @@
+{
+  "welcome": "Welcome",
+  "signIn": "Sign In",
+  "logout": "Log Out",
+  "takeExam": "Take Exam",
+  "home": "Home",
+  "aboutUs": "About Us",
+  "pricing": "Pricing",
+  "contact": "Contact",
+  "profile": "Profile",
+   "cta": "Start Now",
+  "exam": "Take Exam",
+  "contactUs": "Contact Us",
+  "students": "Students",
+  "hours": "Hours",
+  "exams": "Exams",
+  "Intro": {
+    "FirstBlockTitle": "Leading in Providing Knowledge of Traffic Rules and Preparing for the Driving Test",
+    "FirstBlockDescription": "Nkotanyi Driving School is a platform dedicated to helping everyone understand and master traffic rules, enhance safe driving practices, and prepare for the driving test to obtain a driver's license.",
+    "LearnMore": "Learn More",
+    "StartNow": "Start Now"
+  },
+  "aboutSection": {
+    "title": "About Us",
+    "description": "NKOTANYI DRIVING SCHOOL supports individuals with the knowledge, skills, and confidence to become safe drivers. We are dedicated to providing thorough and personalized instruction.",
+    "feature1": "Developing technical skills for vehicle operation",
+    "feature2": "Focus on professionalism, integrity, and innovation",
+    "feature3": "Effective road law education",
+    "additionalInfo": "Each student is valued and supported throughout their journey to mastering road laws.",
+    "teacher": "Teacher NKOTANYI",
+    "location": "Gisozi, Kigali, Rwanda",
+    "teaching": "Teaching road laws and vehicle operation",
+    "vision": "Our vision at NKOTANYI DRIVING SCHOOL is to be the leading provider of driver education, setting benchmarks for excellence and innovation.",
+    "futureVisionTitle": "We envision a future where every road user has:",
+    "futureGoal1": "The knowledge, skills, and attitudes to adhere to the highest safety and responsibility standards.",
+    "futureGoal2": "Continuous improvement of our curriculum with advanced technology",
+    "futureGoal3": "A culture of ongoing improvement",
+    "finalGoal": "We aim to empower generations of drivers by prioritizing safety, durability, and respect for others."
+  },
+  "pricingSection": {
+    "oneTime": {
+      "title": "Five Exams Only",
+      "description": "The best way to take the exam and get your results",
+      "feature1": "Take five exams",
+      "feature2": "No video access",
+     
+      "feature3": "No Document Access",
+      "feature4": "Attempts: <strong> 5 Attempts</strong>"
+    },
+    "weekly": {
+      "title": "One Week",
+      "description": "Take all the exams you want, read within 7 days",
+      "feature1": "Take any number of exams",
+      "feature2": "Watch videos",
+      "feature3": "Access to all Documents",
+      "feature4": "Allowed Time: <strong> 7 Days</strong>"
+    },
+    "twoWeekly": {
+      "title": "Two Weeks",
+      "description": "Take all the exams you want, read within 14 days",
+      "feature1": "Take any number of exams",
+      "feature2": "Watch videos",
+      "feature3": "Access to all Documents",
+      "feature4": "Allowed Time: <strong> 14 Days</strong>"
+    },
+    "monthly": {
+      "title": "One Month",
+      "description": "Take all the exams you want, read within 30 days",
+      "feature1": "Take any number of exams",
+      "feature2": "Watch all videos",
+      "feature3": "Access to all Documents",
+      "feature4": "Allowed Time: <strong> 30 Days</strong>"
+    }
+  },
+ 
+  "FreeTrial": {
+    "Title": "Free Trial",
+    "Description": "You can take an exam for free.",
+    "StartNow": "Start Now"
+  },
+  "ContactSection": {
+    "Title": "Contact Us",
+    "Description": "Have a question? Let's chat or send an email or WhatsApp message.",
+    "EmailLabel": "Email:",
+    "Email": "nkotanyidrivings@gmail.com",
+    "WhatsAppButton": "WhatsApp",
+    "PhoneLabel": "Phone:",
+    "Phone": "0780211466"
+  },
+  "SignUpPage": {
+    "NameLabel": "Name",
+    "NamePlaceholder": "Enter your name",
+    "PhoneLabel": "Phone",
+    "PhonePlaceholder": "Enter your phone number",
+    "PasswordLabel": "Password",
+    "PasswordPlaceholder": "Enter your password",
+    "SubmitButton": "Create Account",
+    "HasAccount": "Already have an account?",
+    "SignInLink": "Sign In",
+    "PhoneError": "Please enter a valid phone number",
+    "NameError": "Please enter a valid name",
+    "PasswordError": "Password must contain at least 8 characters",
+    "GenericError": "An unexpected error occurred. Please try again."
+  },
+  "SignIn": {
+    "PhoneLabel": "Phone",
+    "PhonePlaceholder": "Enter your phone number",
+    "PasswordLabel": "Password",
+    "PasswordPlaceholder": "Enter your Password",
+    "SubmitButton": "Sign In",
+    "SigninError": "Phone or password is incorrect!",
+    "VerificationSuccess": "Success! Your account has been verified! You can now sign in.",
+    "RememberMe": "Remember Me",
+    "NewUser": "New User?",
+    "SignUpLink": "Create Account",
+    "ForgotPassword": "Forgot Password?",
+    "ResetLink": "Reset",
+    "PhoneError": "Please enter a valid phone number",
+    "PasswordError": "Password must contain at least 8 characters, including at least one uppercase letter, one lowercase letter, and one number."
+  },
+  "Reset": {
+     "ContactAdminTitle": "Contact Administrator",
+    "ContactAdminMessage": "Please contact an administrator for assistance with resetting your password.",
+    "HomeButton": "Go Home"
+
+  },
+  "Dashboard": {
+    "Exams": "Exams",
+    "Reading": "Reading",
+    "Watching": "Watching",
+    "Performance": "Performance"
+  },
+  "ProfilePage": {
+    "MyAccount": "My Account Information",
+    "Name": "Name:",
+    "Language": "Selected Language:",
+    "Phone": "Phone:",
+    "Edit": "Edit Profile",
+    "AccountInformation": "Payment Information",
+    "PaymentPeriod": "Subscription Plan",
+    "PaymentPeriodEnd": "Subscription End Date",
+    "ExamNumberBased":"N/A",
+    "PaymentConfirmed": "Yes",
+    "PaymentNotConfirmed": "No",
+    "PaymentStatus": "Have you paid?",
+    "OneTime": "One Time",
+    "TwoExams": "Two Exams",
+    "FiveExams": "Five Exams",
+    "Weekly": "Weekly",
+    "TwoWeekly": "Two Weekly",
+    "Monthly": "Monthly",
+    "Free": "Free",
+    "emailNotProvided": "You currently have no email",
+    "Update": "Update",
+    "UnknownSubscription": "None"
+  },
+
+  "EditProfile": {
+    "AccountInformation": "Account Information",
+    "EditAccountInfo": "Edit account information",
+    "Close": "Close",
+    "Save": "Save",
+    "Name": "Name",
+    "Phone": "Phone",
+    "NamePlaceholder": "Full names",
+    "PhonePlaceholder": "Phone number",
+    "Cancel": "Cancel",
+    "AccountUpdated": "Account Updated Successfully",
+    "ErrorUpdating": "Error updating Account"
+  },
+  "SubscriptionComponent": {
+    "Pay": "Pay"
+  },
+  "WatchingContent": {
+    "GettingVideos": "Getting Videos",
+    "Loading": "Loading...",
+    "YourVideos": "Your Videos",
+    "NoPaymentError": "You have not paid to watch the video.",
+    "PayNow": "Pay Now",
+    "SearchVideoPlaceholder": "Search Video"
+  },
+
+  "PerformanceContent": {
+    "Loading": "Loading performance data...",
+    "LoadError": "An error occurred while loading performance data. Please try again.",
+    "ExamHistory": "Exam Performance History",
+    "DateTaken": "Date Taken",
+    "ExamName": "Exam Name",
+    "Marks": "Marks",
+    "NoRecords": "No performance records found.",
+    "Page": "Page",
+    "Of": "of",
+    "Previous": "Previous",
+    "Next": "Next",
+    "#": "#",
+    "First": "First",
+    "Last": "Last",
+   
+    "Showing": "Showing",
+    "Pages": "pages"
+  },
+
+  "ReadingContent": {
+    "Document": "Document",
+    "See": "See",
+    "NoPayment": "You have not paid to read.",
+    "PayNow": "Pay Now",
+    "Loading": "Loading...",
+    "YourDocuments": "Your Documents",
+    "SearchDocumentPlaceholder": "Search Document",
+    "NoDocumentsFound": "No documents found."
+  },
+
+  "ExamsContent": {
+    "RequirementsHeading": "Requirements to Begin",
+    "RequirementsText": "To take the exams, you must meet the following criteria:",
+    "Start": "Start Exam"
+  },
+  "ExamsPage": {
+    "Loading": "Loading questions...",
+    "PaymentError": "Kindly complete your payment to gain access to the driving knowledge test and related study materials. We sincerely appreciate your cooperation.",
+    "PaymentErrorMessage": "Please pay now.",
+    "NoSubscription": "No Subscription",
+    "RemainingTime": "Time Left:",
+    "StartExam": "You are about to take a 20-minute exam. Good luck!",
+    "Submit": "Submit Exam",
+    "StartExamButton": "Start Exam",
+    "Next": "Next",
+    "Question": "Question",
+    "Previous": "Previous"
+  },
+
+  "ExamResult": {
+    "Pass": "Passed",
+    "Fail": "Failed",
+    "YourScore": "Your Score",
+    "GoBack": "Go Back",
+    "CorrectQuestions": "Correct Questions",
+    "IncorrectQuestions": "Incorrect Questions",
+    "Conclusion": "Conclusion",
+    "YourAnswers": "Your Answers",
+    "Question": "Question",
+    "RetakeTest": "Retake Test",
+    "RepeatQuestions": "Repeat Questions"
+  },
+  "PaymentPage": {
+    "Mobile Money": "Mobile Money",
+    "Airtel Money": "Airtel Money",
+    "Card": "Credit/Debit Card",
+    "SelectPlan": "Select Your Subscription Plan",
+    "Fiveexams": "Five Exams Only - <strong>1000 RWF</strong>",
+    "Weekly": "Weekly - <strong>6000 RWF</strong>",
+    "Twoweekly": "Two Weeks - <strong>10000 RWF</strong>",
+    "Monthly": "Monthly - <strong>15000 RWF</strong>",
+    "PhoneNumber": "Phone Number",
+    "PhonePlaceholder": "Enter your phone number",
+    "CardNumber": "Card Number",
+    "CardPlaceholder": "Enter card number",
+    "CardName": "Cardholder Name",
+    "CardNamePlaceholder": "Enter cardholder name",
+    "ExpDate": "Expiration Date",
+    "ExpDatePlaceholder": "MM/YY",
+    "CCV": "CCV",
+    "CCVPlaceholder": "Enter CCV",
+    "Loading": "Processing...",
+    "PayNow": "Pay Now",
+    "ProcessingPayment": "Processing Payment...",
+    "PaymentPending": "Payment Pending",
+    "PaymentLinkOpened": "Payment link opened in new tab. Complete your payment there.",
+    "CheckingStatus": "Checking Status",
+    "PaymentSuccessful": "Payment will be confirmed soon with an access to your exams, Thank you.",
+    "PaymentFailed": "Payment Failed",
+    "TryAgain": "Try Again",
+    "TotalAmount": "Total Amount",
+    "InvalidPhoneNumber": "Invalid phone number",
+
+    "InvalidCardNumber": "Please enter a valid card number.",
+    "InvalidExpDate": "Please enter a valid expiration date.",
+    "InvalidCCV": "Please enter a valid CCV number.",
+    "PaymentServiceUnavailable": "Payment Service Currently Unavailable",
+"PaymentServiceMessage": "Please be patient, we will inform you when the current issues are resolved. Thank you."
+  },
+  "Announcement": {
+    "message": "Dear Valued Customer, we are currently updating the website to provide you with better service. Thank you!"
+  }
+}

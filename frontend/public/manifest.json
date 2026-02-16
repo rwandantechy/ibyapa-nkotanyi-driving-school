@@ -1,0 +1,35 @@
+{
+  "name": "NKOTANYI DRIVING SCHOOL",
+  "short_name": "IBYAPA",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1947ee",
+  "description": "Wikwitegura ikizamini cy'urushushya rwo gutwara mu Rwanda hamwe na NKOTANYI DRIVING SCHOOL. Kora imyitozo y'ibibazo bisa n'ibyo ku kizamini cya Polisi, wige amategeko y'umuhanda yose n'ibyapa by'umuhanda mu Kinyarwanda, Cyongereza ndetse no mu Gifaransa.",
+  "icons": [
+    {
+      "src": "/images/logo-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/logo-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/images/screenshot-1.png",
+      "sizes": "540x720",
+      "type": "image/png",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "/images/screenshot-2.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide"
+    }
+  ]
+}
