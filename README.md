@@ -37,8 +37,8 @@ IBYAPA is a web app that helps people in Rwanda prepare for the provisional driv
 ## Getting Started
 
 ```bash
-git clone https://github.com/rwandantechy/ibyapa-v2.git
-cd ibyapa-v2
+git clone https://github.com/rwandantechy/ibyapa-nkotanyi-driving-school
+cd ibyapa-nkotanyi-driving-school
 npm install
 npm run dev
 ```
@@ -49,16 +49,8 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ## About the Exam
 
-The Rwanda provisional driving license exam is administered by the Rwanda National Police (RNP). Candidates must score at least 12/20 to pass, or 60% at the Busanza Automated Test Center.
+The Rwanda provisional driving license exam is administered by the Rwanda National Police (RNP). Candidates must score at least 12/20 to pass, or 60% at the Busanza Automated Test Center. our platform has no affliation with RNP. Thank you!
 
 ---
 
-## Contributing
 
-Pull requests are welcome. If you find a wrong answer or want to add more questions, open an issue or submit a PR.
-
----
-
-## License
-
-MIT
