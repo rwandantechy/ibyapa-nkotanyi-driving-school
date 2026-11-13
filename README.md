@@ -26,11 +26,11 @@ IBYAPA is a web app that helps people in Rwanda prepare for the provisional driv
 
 ## Tech Stack
 
-> *(Update this section to match your actual stack)*
 
-- **Frontend:** React / Next.js
-- **Backend / Auth:** Supabase / Firebase *(update as needed)*
-- **Hosting:** *(add your platform here)*
+
+- **Frontend:** REACT
+- **Backend / Auth:** EXPRESS, NODE,JS / Firebase, MONGODB
+
 
 ---
 
