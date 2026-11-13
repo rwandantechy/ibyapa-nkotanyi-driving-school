@@ -1,4 +1,4 @@
-# IBYAPA v2
+# IBYAPA.COM
 
 **Imyitozo y'Ikizamini cya Permi mu Rwanda**
 
